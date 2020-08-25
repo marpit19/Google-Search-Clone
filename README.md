@@ -1,7 +1,6 @@
 # Made using React JS ⚛️ & Deployed using Firebase 🔥🔥🔥
 ## https://clone-8a6b9.web.app/
 ### Drop a star if you liked it and follow for more😃😃
-<hr>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
